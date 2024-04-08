@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+.weather-container {
+    max-width: 400px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.location {
+    margin-bottom: 20px;
+}
+
+.location input {
+    padding: 5px;
+    width: 200px;
+    margin-right: 10px;
+}
+
+.location button {
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.weather-info {
+    text-align: center;
+}
